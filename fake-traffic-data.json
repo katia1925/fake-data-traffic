@@ -1,0 +1,130 @@
+{
+  "sites": [
+    {
+      "Site Name": "TechPulse",
+      "Site Domain": "techpulse.com",
+      "Total Clicks": 12567,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "GreenHarbor",
+      "Site Domain": "greenharbor.net",
+      "Total Clicks": 8743,
+      "Traffic Type": "Organic"
+    },
+    {
+      "Site Name": "CreativeJunction",
+      "Site Domain": "creativejunction.org",
+      "Total Clicks": 23541,
+      "Traffic Type": "Paid"
+    },
+    {
+      "Site Name": "HealthEra",
+      "Site Domain": "healthera.info",
+      "Total Clicks": 3642,
+      "Traffic Type": "Direct"
+    },
+    {
+      "Site Name": "NatureWonders",
+      "Site Domain": "naturewonders.co",
+      "Total Clicks": 19876,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "TravelVoyage",
+      "Site Domain": "travelvoyage.xyz",
+      "Total Clicks": 5498,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "FoodFusion",
+      "Site Domain": "foodfusion.biz",
+      "Total Clicks": 16732,
+      "Traffic Type": "Referral"
+    },
+    {
+      "Site Name": "FashionFusion",
+      "Site Domain": "fashionfusion.store",
+      "Total Clicks": 9831,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "GlobeGlider",
+      "Site Domain": "globeglider.tv",
+      "Total Clicks": 7520,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "MusicMosaic",
+      "Site Domain": "musicmosaic.dev",
+      "Total Clicks": 6329,
+      "Traffic Type": "Social"
+    },
+    {
+      "Site Name": "TechPulse2",
+      "Site Domain": "techpulse2.com",
+      "Total Clicks": 15473,
+      "Traffic Type": "Paid"
+    },
+    {
+      "Site Name": "HealthyHabits",
+      "Site Domain": "healthyhabits.org",
+      "Total Clicks": 7885,
+      "Traffic Type": "Organic"
+    },
+    {
+      "Site Name": "ExploreWorld",
+      "Site Domain": "exploreworld.net",
+      "Total Clicks": 19526,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "TravelBliss",
+      "Site Domain": "travelbliss.xyz",
+      "Total Clicks": 10347,
+      "Traffic Type": "Referral"
+    },
+    {
+      "Site Name": "FoodDelight",
+      "Site Domain": "fooddelight.biz",
+      "Total Clicks": 13568,
+      "Traffic Type": "Paid"
+    },
+    {
+      "Site Name": "StyleTrends",
+      "Site Domain": "styletrends.store",
+      "Total Clicks": 9724,
+      "Traffic Type": "Social"
+    },
+    {
+      "Site Name": "GlobalConnect",
+      "Site Domain": "globalconnect.tv",
+      "Total Clicks": 6123,
+      "Traffic Type": "Direct"
+    },
+    {
+      "Site Name": "SoundFusion",
+      "Site Domain": "soundfusion.dev",
+      "Total Clicks": 7266,
+      "Traffic Type": "Organic"
+    },
+    {
+      "Site Name": "TechPulse3",
+      "Site Domain": "techpulse3.com",
+      "Total Clicks": 18924,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "LifeHacks",
+      "Site Domain": "lifehacks.net",
+      "Total Clicks": 4867,
+      "Traffic Type": ""
+    },
+    {
+      "Site Name": "DesignCraft",
+      "Site Domain": "designcraft.org",
+      "Total Clicks": 13529,
+      "Traffic Type": "Referral"
+    }
+  ]
+}
