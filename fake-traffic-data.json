@@ -3,7 +3,7 @@
     {
       "Site Name": "TechPulse",
       "Site Domain": "techpulse.com",
-      "Site Name Traffic Type": "Organic",
+      "Site Name Traffic Type": "organic",
       "Site Domain Traffic Type": "",
       "Total Clicks": 12567
     },
@@ -18,34 +18,34 @@
       "Site Name": "CreativeJunction",
       "Site Domain": "creativejunction.org",
       "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "Paid",
+      "Site Domain Traffic Type": "paid",
       "Total Clicks": 23541
     },
     {
       "Site Name": "HealthEra",
       "Site Domain": "healthera.info",
-      "Site Name Traffic Type": "Organic",
+      "Site Name Traffic Type": "organic",
       "Site Domain Traffic Type": "",
       "Total Clicks": 3642
     },
     {
       "Site Name": "NatureWonders",
       "Site Domain": "naturewonders.co",
-      "Site Name Traffic Type": "Direct",
+      "Site Name Traffic Type": "direct",
       "Site Domain Traffic Type": "",
       "Total Clicks": 19876
     },
     {
       "Site Name": "TravelVoyage",
       "Site Domain": "travelvoyage.xyz",
-      "Site Name Traffic Type": "Organic",
+      "Site Name Traffic Type": "organic",
       "Site Domain Traffic Type": "",
       "Total Clicks": 5498
     },
     {
       "Site Name": "FoodFusion",
       "Site Domain": "foodfusion.biz",
-      "Site Name Traffic Type": "Direct",
+      "Site Name Traffic Type": "direct",
       "Site Domain Traffic Type": "",
       "Total Clicks": 16732
     },
@@ -53,13 +53,13 @@
       "Site Name": "FashionFusion",
       "Site Domain": "fashionfusion.store",
       "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "Paid",
+      "Site Domain Traffic Type": "paid",
       "Total Clicks": 9831
     },
     {
       "Site Name": "GlobeGlider",
       "Site Domain": "globeglider.tv",
-      "Site Name Traffic Type": "Organic",
+      "Site Name Traffic Type": "organic",
       "Site Domain Traffic Type": "",
       "Total Clicks": 7520
     },
@@ -67,7 +67,7 @@
       "Site Name": "MusicMosaic",
       "Site Domain": "musicmosaic.dev",
       "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "Direct",
+      "Site Domain Traffic Type": "direct",
       "Total Clicks": 6329
     }
   ],
