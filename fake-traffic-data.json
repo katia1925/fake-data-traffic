@@ -70,5 +70,6 @@
       "Site Domain Traffic Type": "Direct",
       "Total Clicks": 6329
     }
-  ]
+  ],
+  "traffic_types": ["direct", "organic", "paid", "referral" ]
 }
