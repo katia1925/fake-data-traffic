@@ -1,70 +1,80 @@
 {
   "sites": [
     {
-      "site_name": "TechPulse",
+      "id": 1,
+      "site_name": "Tech Pulse",
       "site_domain": "techpulse.com",
       "site_name_traffic_type": "organic",
       "site_domain_traffic_type": "",
       "total_clicks": 12567
     },
     {
-      "site_name": "GreenHarbor",
+      "id": 2,
+      "site_name": "Green Harbor",
       "site_domain": "greenharbor.net",
       "site_name_traffic_type": "direct",
       "site_domain_traffic_type": "",
       "total_clicks": 8743
     },
     {
-      "site_name": "CreativeJunction",
+      "id": 3,
+      "site_name": "Creative Junction",
       "site_domain": "creativejunction.org",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "paid",
       "total_clicks": 23541
     },
     {
-      "site_name": "HealthEra",
+      "id": 4,
+      "site_name": "Health Era",
       "site_domain": "healthera.info",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "",
       "total_clicks": 3642
     },
     {
-      "site_name": "NatureWonders",
+      "id": 5,
+      "site_name": "Nature Wonders",
       "site_domain": "naturewonders.co",
       "site_name_traffic_type": "direct",
       "site_domain_traffic_type": "",
       "total_clicks": 19876
     },
     {
-      "site_name": "TravelVoyage",
+      "id": 6,
+      "site_name": "Travel Voyage",
       "site_domain": "travelvoyage.xyz",
       "site_name_traffic_type": "organic",
       "site_domain_traffic_type": "",
       "total_clicks": 5498
     },
     {
-      "site_name": "FoodFusion",
+      "id": 7,
+      "site_name": "Food Fusion",
       "site_domain": "foodfusion.biz",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "",
       "total_clicks": 16732
     },
     {
-      "site_name": "FashionFusion",
+      "id": 8,
+      "site_name": "Fashion Fusion",
       "site_domain": "fashionfusion.store",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "paid",
       "total_clicks": 9831
     },
     {
-      "site_name": "GlobeGlider",
+      "id": 9,
+      "site_name": "Globe Glider",
       "site_domain": "globeglider.tv",
       "site_name_traffic_type": "organic",
       "site_domain_traffic_type": "",
       "total_clicks": 7520
     },
     {
-      "site_name": "MusicMosaic",
+      "id": 10,
+      "site_name": "Music Mosaic",
       "site_domain": "musicmosaic.dev",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "direct",
