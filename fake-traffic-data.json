@@ -1,75 +1,75 @@
 {
   "sites": [
     {
-      "Site Name": "TechPulse",
-      "Site Domain": "techpulse.com",
-      "Site Name Traffic Type": "organic",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 12567
+      "site_name": "TechPulse",
+      "site_domain": "techpulse.com",
+      "site_name_traffic_type": "organic",
+      "site_domain_traffic_type": "",
+      "total_clicks": 12567
     },
     {
-      "Site Name": "GreenHarbor",
-      "Site Domain": "greenharbor.net",
-      "Site Name Traffic Type": "direct",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 8743
+      "site_name": "GreenHarbor",
+      "site_domain": "greenharbor.net",
+      "site_name_traffic_type": "direct",
+      "site_domain_traffic_type": "",
+      "total_clicks": 8743
     },
     {
-      "Site Name": "CreativeJunction",
-      "Site Domain": "creativejunction.org",
-      "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "paid",
-      "Total Clicks": 23541
+      "site_name": "CreativeJunction",
+      "site_domain": "creativejunction.org",
+      "site_name_traffic_type": "",
+      "site_domain_traffic_type": "paid",
+      "total_clicks": 23541
     },
     {
-      "Site Name": "HealthEra",
-      "Site Domain": "healthera.info",
-      "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 3642
+      "site_name": "HealthEra",
+      "site_domain": "healthera.info",
+      "site_name_traffic_type": "",
+      "site_domain_traffic_type": "",
+      "total_clicks": 3642
     },
     {
-      "Site Name": "NatureWonders",
-      "Site Domain": "naturewonders.co",
-      "Site Name Traffic Type": "direct",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 19876
+      "site_name": "NatureWonders",
+      "site_domain": "naturewonders.co",
+      "site_name_traffic_type": "direct",
+      "site_domain_traffic_type": "",
+      "total_clicks": 19876
     },
     {
-      "Site Name": "TravelVoyage",
-      "Site Domain": "travelvoyage.xyz",
-      "Site Name Traffic Type": "organic",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 5498
+      "site_name": "TravelVoyage",
+      "site_domain": "travelvoyage.xyz",
+      "site_name_traffic_type": "organic",
+      "site_domain_traffic_type": "",
+      "total_clicks": 5498
     },
     {
-      "Site Name": "FoodFusion",
-      "Site Domain": "foodfusion.biz",
-      "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 16732
+      "site_name": "FoodFusion",
+      "site_domain": "foodfusion.biz",
+      "site_name_traffic_type": "",
+      "site_domain_traffic_type": "",
+      "total_clicks": 16732
     },
     {
-      "Site Name": "FashionFusion",
-      "Site Domain": "fashionfusion.store",
-      "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "paid",
-      "Total Clicks": 9831
+      "site_name": "FashionFusion",
+      "site_domain": "fashionfusion.store",
+      "site_name_traffic_type": "",
+      "site_domain_traffic_type": "paid",
+      "total_clicks": 9831
     },
     {
-      "Site Name": "GlobeGlider",
-      "Site Domain": "globeglider.tv",
-      "Site Name Traffic Type": "organic",
-      "Site Domain Traffic Type": "",
-      "Total Clicks": 7520
+      "site_name": "GlobeGlider",
+      "site_domain": "globeglider.tv",
+      "site_name_traffic_type": "organic",
+      "site_domain_traffic_type": "",
+      "total_clicks": 7520
     },
     {
-      "Site Name": "MusicMosaic",
-      "Site Domain": "musicmosaic.dev",
-      "Site Name Traffic Type": "",
-      "Site Domain Traffic Type": "direct",
-      "Total Clicks": 6329
+      "site_name": "MusicMosaic",
+      "site_domain": "musicmosaic.dev",
+      "site_name_traffic_type": "",
+      "site_domain_traffic_type": "direct",
+      "total_clicks": 6329
     }
   ],
-  "traffic_types": ["direct", "organic", "paid", "referral" ]
+  "traffic_types": ["direct", "organic", "paid", "referral"]
 }
