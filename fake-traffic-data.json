@@ -1,83 +1,70 @@
-Claro, puedes agregar un espacio en el valor del campo "site_name" de la siguiente manera:
-
-```json
 {
   "sites": [
     {
-      "id": 1,
-      "site_name": "Tech Pulse",
+      "site_name": "TechPulse",
       "site_domain": "techpulse.com",
       "site_name_traffic_type": "organic",
       "site_domain_traffic_type": "",
       "total_clicks": 12567
     },
     {
-      "id": 2,
-      "site_name": "Green Harbor",
+      "site_name": "GreenHarbor",
       "site_domain": "greenharbor.net",
       "site_name_traffic_type": "direct",
       "site_domain_traffic_type": "",
       "total_clicks": 8743
     },
     {
-      "id": 3,
-      "site_name": "Creative Junction",
+      "site_name": "CreativeJunction",
       "site_domain": "creativejunction.org",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "paid",
       "total_clicks": 23541
     },
     {
-      "id": 4,
-      "site_name": "Health Era",
+      "site_name": "HealthEra",
       "site_domain": "healthera.info",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "",
       "total_clicks": 3642
     },
     {
-      "id": 5,
-      "site_name": "Nature Wonders",
+      "site_name": "NatureWonders",
       "site_domain": "naturewonders.co",
       "site_name_traffic_type": "direct",
       "site_domain_traffic_type": "",
       "total_clicks": 19876
     },
     {
-      "id": 6,
-      "site_name": "Travel Voyage",
+      "site_name": "TravelVoyage",
       "site_domain": "travelvoyage.xyz",
       "site_name_traffic_type": "organic",
       "site_domain_traffic_type": "",
       "total_clicks": 5498
     },
     {
-      "id": 7,
-      "site_name": "Food Fusion",
+      "site_name": "FoodFusion",
       "site_domain": "foodfusion.biz",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "",
       "total_clicks": 16732
     },
     {
-      "id": 8,
-      "site_name": "Fashion Fusion",
+      "site_name": "FashionFusion",
       "site_domain": "fashionfusion.store",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "paid",
       "total_clicks": 9831
     },
     {
-      "id": 9,
-      "site_name": "Globe Glider",
+      "site_name": "GlobeGlider",
       "site_domain": "globeglider.tv",
       "site_name_traffic_type": "organic",
       "site_domain_traffic_type": "",
       "total_clicks": 7520
     },
     {
-      "id": 10,
-      "site_name": "Music Mosaic",
+      "site_name": "MusicMosaic",
       "site_domain": "musicmosaic.dev",
       "site_name_traffic_type": "",
       "site_domain_traffic_type": "direct",
@@ -86,6 +73,3 @@ Claro, puedes agregar un espacio en el valor del campo "site_name" de la siguien
   ],
   "traffic_types": ["direct", "organic", "paid", "referral"]
 }
-```
-
-He añadido un espacio en el valor de "site_name" en cada elemento de la matriz "sites".
