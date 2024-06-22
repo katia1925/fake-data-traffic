@@ -31,8 +31,10 @@
     {"date": "2024-01-28", "installs": 55},
     {"date": "2024-01-29", "installs": 60}
   ],
-  "safari_installs": 600,
-  "chrome_installs": 900,
+  "installs_by_browser": [
+    {"browser": "Safari", "installs": 600},
+    {"browser": "Chrome", "installs": 900}
+  ],
   "installs_by_country": [
     {"country": "USA", "installs": 700},
     {"country": "Canada", "installs": 300},
