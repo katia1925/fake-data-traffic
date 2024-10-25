@@ -11,7 +11,7 @@
       "tasa_conversion": 8.78,
       "ganancias_por_visita": 0.13,
       "estatus": "Activo",
-      "pais": "Estados Unidos"
+      "pais": "us"
     },
     {
       "nombre_tienda": "Shein",
@@ -22,7 +22,7 @@
       "tasa_conversion": 11.99,
       "ganancias_por_visita": 0.06,
       "estatus": "Activo",
-      "pais": "China"
+      "pais": "cn"
     },
     {
       "nombre_tienda": "Falabella",
@@ -33,7 +33,7 @@
       "tasa_conversion": 20.12,
       "ganancias_por_visita": 0.19,
       "estatus": "Activo",
-      "pais": "Chile"
+      "pais": "cl"
     },
     {
       "nombre_tienda": "Zalando",
@@ -44,7 +44,7 @@
       "tasa_conversion": 43.73,
       "ganancias_por_visita": 0.14,
       "estatus": "Activo",
-      "pais": "Alemania"
+      "pais": "de"
     },
     {
       "nombre_tienda": "AliExpress",
@@ -55,7 +55,7 @@
       "tasa_conversion": 4.79,
       "ganancias_por_visita": 0.03,
       "estatus": "Activo",
-      "pais": "China"
+      "pais": "cn"
     },
     {
       "nombre_tienda": "eBay",
@@ -66,7 +66,7 @@
       "tasa_conversion": 4.14,
       "ganancias_por_visita": 0.13,
       "estatus": "Activo",
-      "pais": "Estados Unidos"
+      "pais": "us"
     },
     {
       "nombre_tienda": "Best Buy",
@@ -77,7 +77,7 @@
       "tasa_conversion": 8.57,
       "ganancias_por_visita": 0.07,
       "estatus": "Activo",
-      "pais": "Estados Unidos"
+      "pais": "us"
     },
     {
       "nombre_tienda": "Mercado Libre",
@@ -88,7 +88,7 @@
       "tasa_conversion": 19.72,
       "ganancias_por_visita": 0.29,
       "estatus": "Activo",
-      "pais": "Argentina"
+      "pais": "ar"
     },
     {
       "nombre_tienda": "Rakuten",
@@ -99,7 +99,7 @@
       "tasa_conversion": 16.94,
       "ganancias_por_visita": 0.17,
       "estatus": "Activo",
-      "pais": "Japón"
+      "pais": "jp"
     },
     {
       "nombre_tienda": "Flipkart",
@@ -110,7 +110,7 @@
       "tasa_conversion": 8.41,
       "ganancias_por_visita": 0.05,
       "estatus": "Activo",
-      "pais": "India"
+      "pais": "in"
     },
     {
       "nombre_tienda": "Walmart",
@@ -121,7 +121,7 @@
       "tasa_conversion": 18.19,
       "ganancias_por_visita": 0.19,
       "estatus": "Activo",
-      "pais": "Estados Unidos"
+      "pais": "us"
     },
     {
       "nombre_tienda": "Target",
@@ -132,7 +132,7 @@
       "tasa_conversion": 13.93,
       "ganancias_por_visita": 0.06,
       "estatus": "Activo",
-      "pais": "Estados Unidos"
+      "pais": "us"
     },
     {
       "nombre_tienda": "Shopify",
@@ -143,7 +143,7 @@
       "tasa_conversion": 6.09,
       "ganancias_por_visita": 0.07,
       "estatus": "Activo",
-      "pais": "Canadá"
+      "pais": "ca"
     },
     {
       "nombre_tienda": "JD.com",
@@ -154,7 +154,7 @@
       "tasa_conversion": 36.74,
       "ganancias_por_visita": 0.41,
       "estatus": "Activo",
-      "pais": "China"
+      "pais": "cn"
     },
     {
       "nombre_tienda": "Lazada",
@@ -165,7 +165,7 @@
       "tasa_conversion": 15.5,
       "ganancias_por_visita": 0.14,
       "estatus": "Activo",
-      "pais": "Singapur"
+      "pais": "sg"
     },
     {
       "nombre_tienda": "Cdiscount",
@@ -176,7 +176,7 @@
       "tasa_conversion": 19.93,
       "ganancias_por_visita": 0.17,
       "estatus": "Activo",
-      "pais": "Francia"
+      "pais": "fr"
     },
     {
       "nombre_tienda": "Otto",
@@ -187,7 +187,7 @@
       "tasa_conversion": 46.27,
       "ganancias_por_visita": 0.39,
       "estatus": "Activo",
-      "pais": "Alemania"
+      "pais": "de"
     },
     {
       "nombre_tienda": "Carrefour",
@@ -198,7 +198,7 @@
       "tasa_conversion": 31.12,
       "ganancias_por_visita": 0.12,
       "estatus": "Activo",
-      "pais": "Francia"
+      "pais": "fr"
     },
     {
       "nombre_tienda": "Tmall",
@@ -209,7 +209,7 @@
       "tasa_conversion": 12.84,
       "ganancias_por_visita": 0.04,
       "estatus": "Activo",
-      "pais": "China"
+      "pais": "cn"
     },
     {
       "nombre_tienda": "Argos",
@@ -220,8 +220,7 @@
       "tasa_conversion": 15.59,
       "ganancias_por_visita": 0.19,
       "estatus": "Activo",
-      "pais": "Reino Unido"
+      "pais": "gb"
     }
   ]
 }
-
