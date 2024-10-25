@@ -1,0 +1,222 @@
+[
+    {
+        "nombre_tienda": "Amazon",
+        "visitas": 67914,
+        "ventas": 5964,
+        "comisiones": 8912.69,
+        "transacciones": 7475,
+        "tasa_conversion": 8.78,
+        "ganancias_por_visita": 0.13,
+        "estatus": "Activo",
+        "pais": "Estados Unidos"
+    },
+    {
+        "nombre_tienda": "Shein",
+        "visitas": 71415,
+        "ventas": 8565,
+        "comisiones": 4305.38,
+        "transacciones": 2142,
+        "tasa_conversion": 11.99,
+        "ganancias_por_visita": 0.06,
+        "estatus": "Activo",
+        "pais": "China"
+    },
+    {
+        "nombre_tienda": "Falabella",
+        "visitas": 21310,
+        "ventas": 4287,
+        "comisiones": 4141.65,
+        "transacciones": 789,
+        "tasa_conversion": 20.12,
+        "ganancias_por_visita": 0.19,
+        "estatus": "Activo",
+        "pais": "Chile"
+    },
+    {
+        "nombre_tienda": "Zalando",
+        "visitas": 20348,
+        "ventas": 8899,
+        "comisiones": 2793.41,
+        "transacciones": 7520,
+        "tasa_conversion": 43.73,
+        "ganancias_por_visita": 0.14,
+        "estatus": "Activo",
+        "pais": "Alemania"
+    },
+    {
+        "nombre_tienda": "AliExpress",
+        "visitas": 98912,
+        "ventas": 4733,
+        "comisiones": 3318.87,
+        "transacciones": 5532,
+        "tasa_conversion": 4.79,
+        "ganancias_por_visita": 0.03,
+        "estatus": "Activo",
+        "pais": "China"
+    },
+    {
+        "nombre_tienda": "eBay",
+        "visitas": 41594,
+        "ventas": 1723,
+        "comisiones": 5214.04,
+        "transacciones": 9413,
+        "tasa_conversion": 4.14,
+        "ganancias_por_visita": 0.13,
+        "estatus": "Activo",
+        "pais": "Estados Unidos"
+    },
+    {
+        "nombre_tienda": "Best Buy",
+        "visitas": 94495,
+        "ventas": 8100,
+        "comisiones": 7012.17,
+        "transacciones": 8538,
+        "tasa_conversion": 8.57,
+        "ganancias_por_visita": 0.07,
+        "estatus": "Activo",
+        "pais": "Estados Unidos"
+    },
+    {
+        "nombre_tienda": "Mercado Libre",
+        "visitas": 24466,
+        "ventas": 4825,
+        "comisiones": 7206.32,
+        "transacciones": 7021,
+        "tasa_conversion": 19.72,
+        "ganancias_por_visita": 0.29,
+        "estatus": "Activo",
+        "pais": "Argentina"
+    },
+    {
+        "nombre_tienda": "Rakuten",
+        "visitas": 36153,
+        "ventas": 6125,
+        "comisiones": 6109.64,
+        "transacciones": 8781,
+        "tasa_conversion": 16.94,
+        "ganancias_por_visita": 0.17,
+        "estatus": "Activo",
+        "pais": "Japón"
+    },
+    {
+        "nombre_tienda": "Flipkart",
+        "visitas": 85979,
+        "ventas": 7230,
+        "comisiones": 4204.86,
+        "transacciones": 6829,
+        "tasa_conversion": 8.41,
+        "ganancias_por_visita": 0.05,
+        "estatus": "Activo",
+        "pais": "India"
+    },
+    {
+        "nombre_tienda": "Walmart",
+        "visitas": 43100,
+        "ventas": 7841,
+        "comisiones": 8382.44,
+        "transacciones": 9723,
+        "tasa_conversion": 18.19,
+        "ganancias_por_visita": 0.19,
+        "estatus": "Activo",
+        "pais": "Estados Unidos"
+    },
+    {
+        "nombre_tienda": "Target",
+        "visitas": 67982,
+        "ventas": 9474,
+        "comisiones": 3867.94,
+        "transacciones": 9759,
+        "tasa_conversion": 13.93,
+        "ganancias_por_visita": 0.06,
+        "estatus": "Activo",
+        "pais": "Estados Unidos"
+    },
+    {
+        "nombre_tienda": "Shopify",
+        "visitas": 16084,
+        "ventas": 980,
+        "comisiones": 1081.67,
+        "transacciones": 7169,
+        "tasa_conversion": 6.09,
+        "ganancias_por_visita": 0.07,
+        "estatus": "Activo",
+        "pais": "Canadá"
+    },
+    {
+        "nombre_tienda": "JD.com",
+        "visitas": 22719,
+        "ventas": 8346,
+        "comisiones": 9231.89,
+        "transacciones": 9359,
+        "tasa_conversion": 36.74,
+        "ganancias_por_visita": 0.41,
+        "estatus": "Activo",
+        "pais": "China"
+    },
+    {
+        "nombre_tienda": "Lazada",
+        "visitas": 44931,
+        "ventas": 6965,
+        "comisiones": 6288.54,
+        "transacciones": 5861,
+        "tasa_conversion": 15.5,
+        "ganancias_por_visita": 0.14,
+        "estatus": "Activo",
+        "pais": "Singapur"
+    },
+    {
+        "nombre_tienda": "Cdiscount",
+        "visitas": 23637,
+        "ventas": 4712,
+        "comisiones": 4061.5,
+        "transacciones": 9444,
+        "tasa_conversion": 19.93,
+        "ganancias_por_visita": 0.17,
+        "estatus": "Activo",
+        "pais": "Francia"
+    },
+    {
+        "nombre_tienda": "Otto",
+        "visitas": 21107,
+        "ventas": 9766,
+        "comisiones": 8317.57,
+        "transacciones": 5122,
+        "tasa_conversion": 46.27,
+        "ganancias_por_visita": 0.39,
+        "estatus": "Activo",
+        "pais": "Alemania"
+    },
+    {
+        "nombre_tienda": "Carrefour",
+        "visitas": 31158,
+        "ventas": 9697,
+        "comisiones": 3859.58,
+        "transacciones": 7508,
+        "tasa_conversion": 31.12,
+        "ganancias_por_visita": 0.12,
+        "estatus": "Activo",
+        "pais": "Francia"
+    },
+    {
+        "nombre_tienda": "Tmall",
+        "visitas": 70699,
+        "ventas": 9078,
+        "comisiones": 2539.36,
+        "transacciones": 8249,
+        "tasa_conversion": 12.84,
+        "ganancias_por_visita": 0.04,
+        "estatus": "Activo",
+        "pais": "China"
+    },
+    {
+        "nombre_tienda": "Argos",
+        "visitas": 44812,
+        "ventas": 6985,
+        "comisiones": 8683.32,
+        "transacciones": 8881,
+        "tasa_conversion": 15.59,
+        "ganancias_por_visita": 0.19,
+        "estatus": "Activo",
+        "pais": "Reino Unido"
+    }
+]
