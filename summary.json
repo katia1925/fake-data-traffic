@@ -1,0 +1,923 @@
+{
+    "dates": [
+        {
+            "date": "2024-10-18",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 60860,
+                    "ventas": 7604,
+                    "comisiones": 228.12,
+                    "transacciones": 8885
+                },
+                "Shein": {
+                    "visitas": 1672,
+                    "ventas": 5882,
+                    "comisiones": 176.46,
+                    "transacciones": 2336
+                },
+                "Falabella": {
+                    "visitas": 41583,
+                    "ventas": 8964,
+                    "comisiones": 268.92,
+                    "transacciones": 892
+                },
+                "Zalando": {
+                    "visitas": 85268,
+                    "ventas": 9279,
+                    "comisiones": 278.37,
+                    "transacciones": 3388
+                },
+                "AliExpress": {
+                    "visitas": 35262,
+                    "ventas": 1175,
+                    "comisiones": 35.25,
+                    "transacciones": 1529
+                },
+                "eBay": {
+                    "visitas": 61079,
+                    "ventas": 8174,
+                    "comisiones": 245.22,
+                    "transacciones": 1979
+                },
+                "Best Buy": {
+                    "visitas": 96202,
+                    "ventas": 1616,
+                    "comisiones": 48.48,
+                    "transacciones": 9511
+                },
+                "Mercado Libre": {
+                    "visitas": 68874,
+                    "ventas": 6789,
+                    "comisiones": 203.67,
+                    "transacciones": 7308
+                },
+                "Rakuten": {
+                    "visitas": 40985,
+                    "ventas": 2031,
+                    "comisiones": 60.93,
+                    "transacciones": 7120
+                },
+                "Flipkart": {
+                    "visitas": 7124,
+                    "ventas": 4513,
+                    "comisiones": 135.39,
+                    "transacciones": 8941
+                },
+                "Walmart": {
+                    "visitas": 56712,
+                    "ventas": 6368,
+                    "comisiones": 191.04,
+                    "transacciones": 1452
+                },
+                "Target": {
+                    "visitas": 85214,
+                    "ventas": 8522,
+                    "comisiones": 255.66,
+                    "transacciones": 296
+                },
+                "Shopify": {
+                    "visitas": 54391,
+                    "ventas": 1062,
+                    "comisiones": 31.86,
+                    "transacciones": 6456
+                },
+                "JD.com": {
+                    "visitas": 91268,
+                    "ventas": 2638,
+                    "comisiones": 79.14,
+                    "transacciones": 8316
+                },
+                "Lazada": {
+                    "visitas": 73831,
+                    "ventas": 6878,
+                    "comisiones": 206.34,
+                    "transacciones": 381
+                },
+                "Cdiscount": {
+                    "visitas": 17160,
+                    "ventas": 9456,
+                    "comisiones": 283.68,
+                    "transacciones": 2610
+                },
+                "Otto": {
+                    "visitas": 18530,
+                    "ventas": 344,
+                    "comisiones": 10.32,
+                    "transacciones": 2465
+                },
+                "Carrefour": {
+                    "visitas": 92161,
+                    "ventas": 1739,
+                    "comisiones": 52.17,
+                    "transacciones": 1451
+                },
+                "Tmall": {
+                    "visitas": 16066,
+                    "ventas": 6191,
+                    "comisiones": 185.73,
+                    "transacciones": 6644
+                },
+                "Argos": {
+                    "visitas": 7397,
+                    "ventas": 7998,
+                    "comisiones": 239.94,
+                    "transacciones": 5619
+                }
+            },
+            "vistas": 88579,
+            "ventas": 12538,
+            "comisiones": 376.14,
+            "transacciones": 13883
+        },
+        {
+            "date": "2024-10-17",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 79159,
+                    "ventas": 248,
+                    "comisiones": 7.44,
+                    "transacciones": 7629
+                },
+                "Shein": {
+                    "visitas": 5102,
+                    "ventas": 8497,
+                    "comisiones": 254.91,
+                    "transacciones": 9292
+                },
+                "Falabella": {
+                    "visitas": 10446,
+                    "ventas": 690,
+                    "comisiones": 20.7,
+                    "transacciones": 3856
+                },
+                "Zalando": {
+                    "visitas": 96975,
+                    "ventas": 8571,
+                    "comisiones": 257.13,
+                    "transacciones": 1583
+                },
+                "AliExpress": {
+                    "visitas": 45197,
+                    "ventas": 2333,
+                    "comisiones": 69.99,
+                    "transacciones": 847
+                },
+                "eBay": {
+                    "visitas": 13038,
+                    "ventas": 8231,
+                    "comisiones": 246.93,
+                    "transacciones": 6878
+                },
+                "Best Buy": {
+                    "visitas": 14043,
+                    "ventas": 6245,
+                    "comisiones": 187.35,
+                    "transacciones": 495
+                },
+                "Mercado Libre": {
+                    "visitas": 64312,
+                    "ventas": 6682,
+                    "comisiones": 200.46,
+                    "transacciones": 9562
+                },
+                "Rakuten": {
+                    "visitas": 2565,
+                    "ventas": 2132,
+                    "comisiones": 63.96,
+                    "transacciones": 9374
+                },
+                "Flipkart": {
+                    "visitas": 66849,
+                    "ventas": 2641,
+                    "comisiones": 79.23,
+                    "transacciones": 7007
+                },
+                "Walmart": {
+                    "visitas": 25398,
+                    "ventas": 8154,
+                    "comisiones": 244.62,
+                    "transacciones": 637
+                },
+                "Target": {
+                    "visitas": 26639,
+                    "ventas": 131,
+                    "comisiones": 3.93,
+                    "transacciones": 2663
+                },
+                "Shopify": {
+                    "visitas": 35322,
+                    "ventas": 2380,
+                    "comisiones": 71.4,
+                    "transacciones": 3440
+                },
+                "JD.com": {
+                    "visitas": 29562,
+                    "ventas": 8109,
+                    "comisiones": 243.27,
+                    "transacciones": 8219
+                },
+                "Lazada": {
+                    "visitas": 20904,
+                    "ventas": 7513,
+                    "comisiones": 225.39,
+                    "transacciones": 7962
+                },
+                "Cdiscount": {
+                    "visitas": 48422,
+                    "ventas": 944,
+                    "comisiones": 28.32,
+                    "transacciones": 5994
+                },
+                "Otto": {
+                    "visitas": 61436,
+                    "ventas": 590,
+                    "comisiones": 17.7,
+                    "transacciones": 7931
+                },
+                "Carrefour": {
+                    "visitas": 3641,
+                    "ventas": 3981,
+                    "comisiones": 119.43,
+                    "transacciones": 714
+                },
+                "Tmall": {
+                    "visitas": 86248,
+                    "ventas": 3839,
+                    "comisiones": 115.17,
+                    "transacciones": 9408
+                },
+                "Argos": {
+                    "visitas": 55326,
+                    "ventas": 4044,
+                    "comisiones": 121.32,
+                    "transacciones": 4113
+                }
+            },
+            "vistas": 118347,
+            "ventas": 15264,
+            "comisiones": 457.92,
+            "transacciones": 9166
+        },
+        {
+            "date": "2024-10-16",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 13875,
+                    "ventas": 8107,
+                    "comisiones": 243.21,
+                    "transacciones": 3910
+                },
+                "Shein": {
+                    "visitas": 87147,
+                    "ventas": 2610,
+                    "comisiones": 78.3,
+                    "transacciones": 2575
+                },
+                "Falabella": {
+                    "visitas": 30493,
+                    "ventas": 3921,
+                    "comisiones": 117.63,
+                    "transacciones": 3072
+                },
+                "Zalando": {
+                    "visitas": 99899,
+                    "ventas": 888,
+                    "comisiones": 26.64,
+                    "transacciones": 6743
+                },
+                "AliExpress": {
+                    "visitas": 48539,
+                    "ventas": 6219,
+                    "comisiones": 186.57,
+                    "transacciones": 329
+                },
+                "eBay": {
+                    "visitas": 62433,
+                    "ventas": 5196,
+                    "comisiones": 155.88,
+                    "transacciones": 4495
+                },
+                "Best Buy": {
+                    "visitas": 53207,
+                    "ventas": 6317,
+                    "comisiones": 189.51,
+                    "transacciones": 8827
+                },
+                "Mercado Libre": {
+                    "visitas": 79315,
+                    "ventas": 1093,
+                    "comisiones": 32.79,
+                    "transacciones": 7385
+                },
+                "Rakuten": {
+                    "visitas": 82408,
+                    "ventas": 5862,
+                    "comisiones": 175.86,
+                    "transacciones": 6231
+                },
+                "Flipkart": {
+                    "visitas": 27175,
+                    "ventas": 5739,
+                    "comisiones": 172.17,
+                    "transacciones": 292
+                },
+                "Walmart": {
+                    "visitas": 51475,
+                    "ventas": 6578,
+                    "comisiones": 197.34,
+                    "transacciones": 7425
+                },
+                "Target": {
+                    "visitas": 75989,
+                    "ventas": 8199,
+                    "comisiones": 245.97,
+                    "transacciones": 4313
+                },
+                "Shopify": {
+                    "visitas": 53608,
+                    "ventas": 5729,
+                    "comisiones": 171.87,
+                    "transacciones": 2336
+                },
+                "JD.com": {
+                    "visitas": 61186,
+                    "ventas": 6495,
+                    "comisiones": 194.85,
+                    "transacciones": 7667
+                },
+                "Lazada": {
+                    "visitas": 63311,
+                    "ventas": 7474,
+                    "comisiones": 224.22,
+                    "transacciones": 1113
+                },
+                "Cdiscount": {
+                    "visitas": 62389,
+                    "ventas": 5121,
+                    "comisiones": 153.63,
+                    "transacciones": 8289
+                },
+                "Otto": {
+                    "visitas": 39793,
+                    "ventas": 8390,
+                    "comisiones": 251.7,
+                    "transacciones": 4276
+                },
+                "Carrefour": {
+                    "visitas": 90171,
+                    "ventas": 6293,
+                    "comisiones": 188.79,
+                    "transacciones": 6409
+                },
+                "Tmall": {
+                    "visitas": 84188,
+                    "ventas": 7589,
+                    "comisiones": 227.67,
+                    "transacciones": 4013
+                },
+                "Argos": {
+                    "visitas": 22264,
+                    "ventas": 7042,
+                    "comisiones": 211.26,
+                    "transacciones": 8848
+                }
+            },
+            "vistas": 84403,
+            "ventas": 7266,
+            "comisiones": 217.98,
+            "transacciones": 9759
+        },
+        {
+            "date": "2024-10-15",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 18468,
+                    "ventas": 9683,
+                    "comisiones": 290.49,
+                    "transacciones": 4621
+                },
+                "Shein": {
+                    "visitas": 69359,
+                    "ventas": 1817,
+                    "comisiones": 54.51,
+                    "transacciones": 2717
+                },
+                "Falabella": {
+                    "visitas": 56154,
+                    "ventas": 8455,
+                    "comisiones": 253.65,
+                    "transacciones": 7817
+                },
+                "Zalando": {
+                    "visitas": 67965,
+                    "ventas": 8288,
+                    "comisiones": 248.64,
+                    "transacciones": 925
+                },
+                "AliExpress": {
+                    "visitas": 24622,
+                    "ventas": 9556,
+                    "comisiones": 286.68,
+                    "transacciones": 5723
+                },
+                "eBay": {
+                    "visitas": 26793,
+                    "ventas": 8364,
+                    "comisiones": 250.92,
+                    "transacciones": 6983
+                },
+                "Best Buy": {
+                    "visitas": 80268,
+                    "ventas": 7954,
+                    "comisiones": 238.62,
+                    "transacciones": 4470
+                },
+                "Mercado Libre": {
+                    "visitas": 54587,
+                    "ventas": 3979,
+                    "comisiones": 119.37,
+                    "transacciones": 9876
+                },
+                "Rakuten": {
+                    "visitas": 6568,
+                    "ventas": 845,
+                    "comisiones": 25.35,
+                    "transacciones": 4839
+                },
+                "Flipkart": {
+                    "visitas": 96462,
+                    "ventas": 4526,
+                    "comisiones": 135.78,
+                    "transacciones": 337
+                },
+                "Walmart": {
+                    "visitas": 83329,
+                    "ventas": 7102,
+                    "comisiones": 213.06,
+                    "transacciones": 6491
+                },
+                "Target": {
+                    "visitas": 12531,
+                    "ventas": 482,
+                    "comisiones": 14.46,
+                    "transacciones": 4342
+                },
+                "Shopify": {
+                    "visitas": 68896,
+                    "ventas": 3848,
+                    "comisiones": 115.44,
+                    "transacciones": 7322
+                },
+                "JD.com": {
+                    "visitas": 51857,
+                    "ventas": 4321,
+                    "comisiones": 129.63,
+                    "transacciones": 3357
+                },
+                "Lazada": {
+                    "visitas": 72274,
+                    "ventas": 276,
+                    "comisiones": 8.28,
+                    "transacciones": 1768
+                },
+                "Cdiscount": {
+                    "visitas": 23316,
+                    "ventas": 9161,
+                    "comisiones": 274.83,
+                    "transacciones": 2312
+                },
+                "Otto": {
+                    "visitas": 95755,
+                    "ventas": 3198,
+                    "comisiones": 95.94,
+                    "transacciones": 3328
+                },
+                "Carrefour": {
+                    "visitas": 65997,
+                    "ventas": 2113,
+                    "comisiones": 63.39,
+                    "transacciones": 6754
+                },
+                "Tmall": {
+                    "visitas": 78610,
+                    "ventas": 103,
+                    "comisiones": 3.09,
+                    "transacciones": 8725
+                },
+                "Argos": {
+                    "visitas": 50802,
+                    "ventas": 9754,
+                    "comisiones": 292.62,
+                    "transacciones": 5198
+                }
+            },
+            "vistas": 91727,
+            "ventas": 6967,
+            "comisiones": 209.01,
+            "transacciones": 12092
+        },
+        {
+            "date": "2024-10-14",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 7947,
+                    "ventas": 9740,
+                    "comisiones": 292.2,
+                    "transacciones": 3383
+                },
+                "Shein": {
+                    "visitas": 45054,
+                    "ventas": 3159,
+                    "comisiones": 94.77,
+                    "transacciones": 3962
+                },
+                "Falabella": {
+                    "visitas": 15719,
+                    "ventas": 7586,
+                    "comisiones": 227.58,
+                    "transacciones": 3704
+                },
+                "Zalando": {
+                    "visitas": 50706,
+                    "ventas": 1935,
+                    "comisiones": 58.05,
+                    "transacciones": 2467
+                },
+                "AliExpress": {
+                    "visitas": 43436,
+                    "ventas": 9942,
+                    "comisiones": 298.26,
+                    "transacciones": 8842
+                },
+                "eBay": {
+                    "visitas": 47748,
+                    "ventas": 3418,
+                    "comisiones": 102.54,
+                    "transacciones": 2656
+                },
+                "Best Buy": {
+                    "visitas": 38047,
+                    "ventas": 407,
+                    "comisiones": 12.21,
+                    "transacciones": 3557
+                },
+                "Mercado Libre": {
+                    "visitas": 17100,
+                    "ventas": 2515,
+                    "comisiones": 75.45,
+                    "transacciones": 9655
+                },
+                "Rakuten": {
+                    "visitas": 21578,
+                    "ventas": 7729,
+                    "comisiones": 231.87,
+                    "transacciones": 2051
+                },
+                "Flipkart": {
+                    "visitas": 23059,
+                    "ventas": 6049,
+                    "comisiones": 181.47,
+                    "transacciones": 5587
+                },
+                "Walmart": {
+                    "visitas": 4178,
+                    "ventas": 2509,
+                    "comisiones": 75.27,
+                    "transacciones": 2067
+                },
+                "Target": {
+                    "visitas": 4255,
+                    "ventas": 7227,
+                    "comisiones": 216.81,
+                    "transacciones": 6725
+                },
+                "Shopify": {
+                    "visitas": 10730,
+                    "ventas": 2580,
+                    "comisiones": 77.4,
+                    "transacciones": 4491
+                },
+                "JD.com": {
+                    "visitas": 44064,
+                    "ventas": 454,
+                    "comisiones": 13.62,
+                    "transacciones": 9992
+                },
+                "Lazada": {
+                    "visitas": 34311,
+                    "ventas": 6137,
+                    "comisiones": 184.11,
+                    "transacciones": 7302
+                },
+                "Cdiscount": {
+                    "visitas": 79783,
+                    "ventas": 4565,
+                    "comisiones": 136.95,
+                    "transacciones": 6390
+                },
+                "Otto": {
+                    "visitas": 8191,
+                    "ventas": 4319,
+                    "comisiones": 129.57,
+                    "transacciones": 9307
+                },
+                "Carrefour": {
+                    "visitas": 40742,
+                    "ventas": 5880,
+                    "comisiones": 176.4,
+                    "transacciones": 8218
+                },
+                "Tmall": {
+                    "visitas": 59737,
+                    "ventas": 2526,
+                    "comisiones": 75.78,
+                    "transacciones": 5704
+                },
+                "Argos": {
+                    "visitas": 7020,
+                    "ventas": 6821,
+                    "comisiones": 204.63,
+                    "transacciones": 8995
+                }
+            },
+            "vistas": 76447,
+            "ventas": 10564,
+            "comisiones": 316.92,
+            "transacciones": 11899
+        },
+        {
+            "date": "2024-10-13",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 30132,
+                    "ventas": 6600,
+                    "comisiones": 198.0,
+                    "transacciones": 2118
+                },
+                "Shein": {
+                    "visitas": 59166,
+                    "ventas": 828,
+                    "comisiones": 24.84,
+                    "transacciones": 3269
+                },
+                "Falabella": {
+                    "visitas": 67594,
+                    "ventas": 6930,
+                    "comisiones": 207.9,
+                    "transacciones": 9438
+                },
+                "Zalando": {
+                    "visitas": 7247,
+                    "ventas": 4984,
+                    "comisiones": 149.52,
+                    "transacciones": 3601
+                },
+                "AliExpress": {
+                    "visitas": 38995,
+                    "ventas": 2483,
+                    "comisiones": 74.49,
+                    "transacciones": 3925
+                },
+                "eBay": {
+                    "visitas": 15605,
+                    "ventas": 3613,
+                    "comisiones": 108.39,
+                    "transacciones": 7962
+                },
+                "Best Buy": {
+                    "visitas": 48854,
+                    "ventas": 3913,
+                    "comisiones": 117.39,
+                    "transacciones": 1628
+                },
+                "Mercado Libre": {
+                    "visitas": 10186,
+                    "ventas": 6750,
+                    "comisiones": 202.5,
+                    "transacciones": 6722
+                },
+                "Rakuten": {
+                    "visitas": 46688,
+                    "ventas": 8844,
+                    "comisiones": 265.32,
+                    "transacciones": 390
+                },
+                "Flipkart": {
+                    "visitas": 43690,
+                    "ventas": 8700,
+                    "comisiones": 261.0,
+                    "transacciones": 371
+                },
+                "Walmart": {
+                    "visitas": 85994,
+                    "ventas": 7505,
+                    "comisiones": 225.15,
+                    "transacciones": 7371
+                },
+                "Target": {
+                    "visitas": 38187,
+                    "ventas": 4559,
+                    "comisiones": 136.77,
+                    "transacciones": 2787
+                },
+                "Shopify": {
+                    "visitas": 97675,
+                    "ventas": 1391,
+                    "comisiones": 41.73,
+                    "transacciones": 4778
+                },
+                "JD.com": {
+                    "visitas": 49623,
+                    "ventas": 1948,
+                    "comisiones": 58.44,
+                    "transacciones": 9547
+                },
+                "Lazada": {
+                    "visitas": 10966,
+                    "ventas": 5192,
+                    "comisiones": 155.76,
+                    "transacciones": 1160
+                },
+                "Cdiscount": {
+                    "visitas": 45708,
+                    "ventas": 3976,
+                    "comisiones": 119.28,
+                    "transacciones": 8728
+                },
+                "Otto": {
+                    "visitas": 31350,
+                    "ventas": 812,
+                    "comisiones": 24.36,
+                    "transacciones": 6589
+                },
+                "Carrefour": {
+                    "visitas": 6350,
+                    "ventas": 844,
+                    "comisiones": 25.32,
+                    "transacciones": 5564
+                },
+                "Tmall": {
+                    "visitas": 45130,
+                    "ventas": 3747,
+                    "comisiones": 112.41,
+                    "transacciones": 3593
+                },
+                "Argos": {
+                    "visitas": 35465,
+                    "ventas": 2488,
+                    "comisiones": 74.64,
+                    "transacciones": 7509
+                }
+            },
+            "vistas": 106558,
+            "ventas": 5919,
+            "comisiones": 177.57,
+            "transacciones": 19395
+        },
+        {
+            "date": "2024-10-12",
+            "tiendas": {
+                "Amazon": {
+                    "visitas": 50654,
+                    "ventas": 7062,
+                    "comisiones": 211.86,
+                    "transacciones": 137
+                },
+                "Shein": {
+                    "visitas": 96586,
+                    "ventas": 1728,
+                    "comisiones": 51.84,
+                    "transacciones": 6620
+                },
+                "Falabella": {
+                    "visitas": 55001,
+                    "ventas": 8874,
+                    "comisiones": 266.22,
+                    "transacciones": 7823
+                },
+                "Zalando": {
+                    "visitas": 78477,
+                    "ventas": 9938,
+                    "comisiones": 298.14,
+                    "transacciones": 6783
+                },
+                "AliExpress": {
+                    "visitas": 96840,
+                    "ventas": 8531,
+                    "comisiones": 255.93,
+                    "transacciones": 3469
+                },
+                "eBay": {
+                    "visitas": 68314,
+                    "ventas": 284,
+                    "comisiones": 8.52,
+                    "transacciones": 6419
+                },
+                "Best Buy": {
+                    "visitas": 65558,
+                    "ventas": 7166,
+                    "comisiones": 214.98,
+                    "transacciones": 4177
+                },
+                "Mercado Libre": {
+                    "visitas": 9399,
+                    "ventas": 3659,
+                    "comisiones": 109.77,
+                    "transacciones": 6003
+                },
+                "Rakuten": {
+                    "visitas": 62530,
+                    "ventas": 8275,
+                    "comisiones": 248.25,
+                    "transacciones": 3290
+                },
+                "Flipkart": {
+                    "visitas": 27594,
+                    "ventas": 2503,
+                    "comisiones": 75.09,
+                    "transacciones": 5380
+                },
+                "Walmart": {
+                    "visitas": 16340,
+                    "ventas": 7088,
+                    "comisiones": 212.64,
+                    "transacciones": 8841
+                },
+                "Target": {
+                    "visitas": 34412,
+                    "ventas": 9774,
+                    "comisiones": 293.22,
+                    "transacciones": 9746
+                },
+                "Shopify": {
+                    "visitas": 89279,
+                    "ventas": 7336,
+                    "comisiones": 220.08,
+                    "transacciones": 9494
+                },
+                "JD.com": {
+                    "visitas": 18141,
+                    "ventas": 7177,
+                    "comisiones": 215.31,
+                    "transacciones": 7606
+                },
+                "Lazada": {
+                    "visitas": 99716,
+                    "ventas": 8203,
+                    "comisiones": 246.09,
+                    "transacciones": 5611
+                },
+                "Cdiscount": {
+                    "visitas": 47747,
+                    "ventas": 1306,
+                    "comisiones": 39.18,
+                    "transacciones": 2257
+                },
+                "Otto": {
+                    "visitas": 37071,
+                    "ventas": 3510,
+                    "comisiones": 105.3,
+                    "transacciones": 4598
+                },
+                "Carrefour": {
+                    "visitas": 42074,
+                    "ventas": 7074,
+                    "comisiones": 212.22,
+                    "transacciones": 5466
+                },
+                "Tmall": {
+                    "visitas": 30280,
+                    "ventas": 5696,
+                    "comisiones": 170.88,
+                    "transacciones": 5883
+                },
+                "Argos": {
+                    "visitas": 21869,
+                    "ventas": 1360,
+                    "comisiones": 40.8,
+                    "transacciones": 7581
+                }
+            },
+            "vistas": 92320,
+            "ventas": 8401,
+            "comisiones": 252.03,
+            "transacciones": 10830
+        }
+    ],
+    "usuarios": 55940,
+    "visitas": 995943,
+    "ventas": 77928,
+    "comisiones": 2337.84,
+    "previous_period_usuarios": 101820,
+    "previous_period_visitas": 757116,
+    "previous_period_ventas": 82089,
+    "previous_period_comisiones": 2462.67,
+    "top_tiendas": [
+        "Amazon",
+        "Temu",
+        "Shein",
+        "Falabella",
+        "AliExpress"
+    ],
+    "last_updated": "25 Oct 18:50"
+}
