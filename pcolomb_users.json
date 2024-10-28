@@ -1,0 +1,166 @@
+{
+  "page": 1,
+  "total_pages": 1,
+  "items": [
+    {
+      "user_id": 9851,
+      "cedula": 5839323621,
+      "visitas": 345,
+      "transacciones": 30,
+      "ventas": 4486.55,
+      "comisiones": 836.44,
+      "tasa_conversion": 39.59,
+      "ganancias_por_visita": 4.24
+    },
+    {
+      "user_id": 7086,
+      "cedula": 6437563617,
+      "visitas": 961,
+      "transacciones": 17,
+      "ventas": 3542.86,
+      "comisiones": 326.47,
+      "tasa_conversion": 47.89,
+      "ganancias_por_visita": 4.73
+    },
+    {
+      "user_id": 4167,
+      "cedula": 7128338922,
+      "visitas": 563,
+      "transacciones": 11,
+      "ventas": 852.71,
+      "comisiones": 254.97,
+      "tasa_conversion": 39.65,
+      "ganancias_por_visita": 3.88
+    },
+    {
+      "user_id": 8711,
+      "cedula": 3642964345,
+      "visitas": 547,
+      "transacciones": 10,
+      "ventas": 429.34,
+      "comisiones": 110.63,
+      "tasa_conversion": 49.12,
+      "ganancias_por_visita": 4.66
+    },
+    {
+      "user_id": 4655,
+      "cedula": 8330756534,
+      "visitas": 617,
+      "transacciones": 2,
+      "ventas": 792.47,
+      "comisiones": 304.87,
+      "tasa_conversion": 36.78,
+      "ganancias_por_visita": 1.16
+    },
+    {
+      "user_id": 4100,
+      "cedula": 7634287224,
+      "visitas": 546,
+      "transacciones": 5,
+      "ventas": 4828.34,
+      "comisiones": 575.22,
+      "tasa_conversion": 48.57,
+      "ganancias_por_visita": 3.59
+    },
+    {
+      "user_id": 1115,
+      "cedula": 2767264817,
+      "visitas": 343,
+      "transacciones": 40,
+      "ventas": 4998.08,
+      "comisiones": 777.39,
+      "tasa_conversion": 11.43,
+      "ganancias_por_visita": 3.94
+    },
+    {
+      "user_id": 4807,
+      "cedula": 7187729595,
+      "visitas": 86,
+      "transacciones": 17,
+      "ventas": 793.87,
+      "comisiones": 239.46,
+      "tasa_conversion": 47.08,
+      "ganancias_por_visita": 4.54
+    },
+    {
+      "user_id": 4033,
+      "cedula": 7694775108,
+      "visitas": 716,
+      "transacciones": 30,
+      "ventas": 644.69,
+      "comisiones": 600.71,
+      "tasa_conversion": 34.24,
+      "ganancias_por_visita": 1.99
+    },
+    {
+      "user_id": 5634,
+      "cedula": 3639741849,
+      "visitas": 762,
+      "transacciones": 7,
+      "ventas": 3927.13,
+      "comisiones": 183.5,
+      "tasa_conversion": 28.32,
+      "ganancias_por_visita": 1.66
+    },
+    {
+      "user_id": 2059,
+      "cedula": 6627133602,
+      "visitas": 458,
+      "transacciones": 31,
+      "ventas": 3988.24,
+      "comisiones": 388.89,
+      "tasa_conversion": 24.3,
+      "ganancias_por_visita": 0.76
+    },
+    {
+      "user_id": 9925,
+      "cedula": 6809765582,
+      "visitas": 815,
+      "transacciones": 36,
+      "ventas": 262.56,
+      "comisiones": 884.6,
+      "tasa_conversion": 27.07,
+      "ganancias_por_visita": 4.6
+    },
+    {
+      "user_id": 9857,
+      "cedula": 4710377521,
+      "visitas": 622,
+      "transacciones": 41,
+      "ventas": 3610.09,
+      "comisiones": 374.34,
+      "tasa_conversion": 27.15,
+      "ganancias_por_visita": 0.5
+    },
+    {
+      "user_id": 4492,
+      "cedula": 9788264398,
+      "visitas": 870,
+      "transacciones": 1,
+      "ventas": 2035.68,
+      "comisiones": 149.76,
+      "tasa_conversion": 35.55,
+      "ganancias_por_visita": 2.25
+    },
+    {
+      "user_id": 4895,
+      "cedula": 5386521309,
+      "visitas": 554,
+      "transacciones": 45,
+      "ventas": 1060.52,
+      "comisiones": 671.27,
+      "tasa_conversion": 40.44,
+      "ganancias_por_visita": 2.02
+    },
+    {
+      "user_id": 8740,
+      "cedula": 1946619189,
+      "visitas": 708,
+      "transacciones": 36,
+      "ventas": 943.98,
+      "comisiones": 365.04,
+      "tasa_conversion": 33.47,
+      "ganancias_por_visita": 0.76
+    }
+  ]
+}
